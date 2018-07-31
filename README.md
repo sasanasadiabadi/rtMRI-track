@@ -1,1 +1,1 @@
-Repo dor DL-based vocal tract area function (VTAF) estimation 
+Repo for DL-based vocal tract area function (VTAF) estimation 
