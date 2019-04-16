@@ -1,1 +1,1 @@
-Repo for DL-based vocal tract area function (VTAF) estimation 
+DL-based vocal tract contour tracking for rtMRI 
